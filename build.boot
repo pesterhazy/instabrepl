@@ -1,5 +1,6 @@
 (set-env!
  :source-paths #{"src"}
+ :resource-paths #{"resources"}
  :dependencies '[[org.clojure/clojurescript "1.9.293"]
                  [adzerk/boot-cljs "1.7.228-2"]
                  [pandeiro/boot-http "0.7.3"]
