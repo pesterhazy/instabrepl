@@ -1,0 +1,2 @@
+{:require  [instabrepl.core]
+ :compiler-options {}}
